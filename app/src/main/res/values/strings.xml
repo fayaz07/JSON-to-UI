@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EzeTap-Assignment</string>
+    <string name="user_greet">Hello there, click the button below to fetch UI data</string>
+    <string name="fetch_data">Fetch data</string>
+</resources>
